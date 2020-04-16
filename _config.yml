@@ -27,6 +27,18 @@ url: "https://d3la.github.io" # the base hostname & protocol for your site, e.g.
 twitter_username: victorWorlanyo
 github_username:  d3LA
 
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: Victor Worlanyo
+
+linkedin_username: vworlanyo
+
+# instagram_username: victorworlanyo
+
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+copyright: "Random Musings, Inc"
+
+
 # Build settings
 # Removed minima theme as it is now a regular theme (non-gem based theme)
 # theme: minima
