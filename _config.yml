@@ -21,8 +21,7 @@
 title: Random Musings
 email: delaworlanyo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  tomorrow i'm a husband. yesterday i was a father. today i'm just a man. next week i'm just a brother.
-  look i'm more than just a picture. what am i: i'm a man made in God's image.
+  thoughts of a growing young man.
 baseurl: "/randomMusings" # the subpath of your site, e.g. /blog
 url: "https://d3la.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: victorWorlanyo
